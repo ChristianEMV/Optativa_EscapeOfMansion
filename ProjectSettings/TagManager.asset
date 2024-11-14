@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TileMap_Piso
+    uniqueID: 1604927521
+    locked: 0
+  - name: Player
+    uniqueID: 3779278333
+    locked: 0
+  - name: Arbol
+    uniqueID: 2650004777
+    locked: 0
+  - name: Reja
+    uniqueID: 987874439
+    locked: 0
+  - name: Extras
+    uniqueID: 2532558839
+    locked: 0
